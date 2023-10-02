@@ -134,24 +134,24 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ## Cara Pemakaian
 
 Penggunaan Web App ini cukup mudah, interface di dalam web app sudah sangat membantu, berikut demo pemakaiannya:
-    1. Masuk ke [Trillium Notes](http://159.223.70.115:8080) `<br>`
+    1. Masuk ke [Trillium Notes](http://159.223.70.115:8080)
     2. Pada halaman awal, ditampilkan navbar, list note, dan new tab
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/b8aaad10-f534-49e4-8b62-277eb1cd984b)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/b8aaad10-f534-49e4-8b62-277eb1cd984b)
     3. Untuk membuat note baru, user bisa klik new note pada navbar. Setelah membuat note baru, note akan masuk ke dalam list note sesuai dengan hari, tanggal, dan bulan dibuatnya note tersebut.
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/0e2b5c68-837f-4ccb-bcb4-e873a8f239ac)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/0e2b5c68-837f-4ccb-bcb4-e873a8f239ac)
     4. Untuk mencari suatu note, user dapat klik search note pada navbar. Pada menu search ini, user dapat mengisi keyword note yang dicari dan terdapat beberapa opsi untuk membantu pencarian seperti ordered by, fast search, dsb.
     ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/d4537138-0690-4b97-82fa-5a15d04d27d6)
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/7d47ad9f-87e3-4df6-b0b3-5d91da8b1381)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/7d47ad9f-87e3-4df6-b0b3-5d91da8b1381)
     5. User juga dapat langsung masuk ke note yang diinginkan dengan fitur "Jump to note". "Jump to note" dapat diklik pada navbar dan user tinggal mencari keyword notenya. Ketika user sudah memasukkan keyword, web otomatis mencari note dan ketika user mengklik note yang diinginkan, maka langsung akan masuk ke dalam note tersebut.
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/4266d4a0-dbee-4c7c-a71a-4ca5a0e0bfdf)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/4266d4a0-dbee-4c7c-a71a-4ca5a0e0bfdf)
     6. Terdapat fitur note map yang mana web akan menampilkan relasi tiap note yang ada. Note map ini dapat ditampilkan dengan 2 bentuk, yakni tree map dan link map
     ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/068a281a-7a8c-491b-adf4-80ad36cb0a29)
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/e8eaa1a5-8937-45e0-ae28-1fba65cf35c1)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/e8eaa1a5-8937-45e0-ae28-1fba65cf35c1)
     7. Terdapat fitur calendar yang berguna untuk user melihat to-do dari tiap tanggal yang diisi. User tinggal hover tanggal yang diinginkan, dan nanti to-do pada hari itu akan muncul. User juga dapat masuk ke dalam overview notes pada hari yang diklik
     ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/0f11b2ef-dc0d-469b-bf38-a0234152f2ad)
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/ae6f6fd7-57ca-4f2a-b627-cda3b61e5dc5)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/ae6f6fd7-57ca-4f2a-b627-cda3b61e5dc5)
     8. Selain fitur-fitur di atas, Trillium notes juga menyediakan berbagai fitur/template seperti schedule, math formatting, dan code blocking.
-    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/bdac6290-e811-45a1-9d61-7977b961a998)`<br>`
+    ![image](https://github.com/mirzahm14/trillium-notes/assets/88041796/bdac6290-e811-45a1-9d61-7977b961a998)
 ## Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
